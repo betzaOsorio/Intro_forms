@@ -1,0 +1,17 @@
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\bin\Debug\net8.0-windows\Introduccion_forms.exe
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\bin\Debug\net8.0-windows\Introduccion_forms.deps.json
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\bin\Debug\net8.0-windows\Introduccion_forms.runtimeconfig.json
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\bin\Debug\net8.0-windows\Introduccion_forms.dll
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\bin\Debug\net8.0-windows\Introduccion_forms.pdb
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\obj\Debug\net8.0-windows\Introduccion_forms.Form1.resources
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\obj\Debug\net8.0-windows\Introduccion_forms.csproj.GenerateResource.cache
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\obj\Debug\net8.0-windows\Introduccion_forms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\obj\Debug\net8.0-windows\Introduccion_forms.AssemblyInfoInputs.cache
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\obj\Debug\net8.0-windows\Introduccion_forms.AssemblyInfo.cs
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\obj\Debug\net8.0-windows\Introduccion_forms.csproj.CoreCompileInputs.cache
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\obj\Debug\net8.0-windows\Introduccion_forms.dll
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\obj\Debug\net8.0-windows\refint\Introduccion_forms.dll
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\obj\Debug\net8.0-windows\Introduccion_forms.pdb
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\obj\Debug\net8.0-windows\Introduccion_forms.genruntimeconfig.cache
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\obj\Debug\net8.0-windows\ref\Introduccion_forms.dll
+C:\Users\cosor\Documents\Betza\Programacion\Semestre 2\Visual Basic\Introduccion_forms\Introduccion_forms\obj\Debug\net8.0-windows\Introduccion_forms.Properties.Resources.resources
